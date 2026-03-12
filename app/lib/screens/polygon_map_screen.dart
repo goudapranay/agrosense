@@ -85,7 +85,7 @@ class _PolygonMapScreenState extends State<PolygonMapScreen> {
               borderStrokeWidth: 2.5,
             ),
           ])
-        : const PolygonLayer(polygons: []);
+        : const PolygonLayer<Object>(polygons: []);
 
     return Scaffold(
       appBar: AppBar(
