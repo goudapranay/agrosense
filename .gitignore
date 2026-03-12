@@ -1,0 +1,8 @@
+app/build/
+app/.dart_tool/
+app/pubspec.lock
+backend/__pycache__/
+backend/venv/
+backend/.env
+*.pyc
+.DS_Store
